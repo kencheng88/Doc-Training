@@ -1,16 +1,31 @@
 # Agenda
 
-## Call Helper
+## How to use this document
 
-### [Useful Link in IT](./useful-link.md)
+- For new comers, Welcome to join XXXX
+  - Set up your dev vm first
+  - Choose your learning skill sets that depends on your job
+  - Complete the workshop step by step
+    - if you are 0 grade, we wish you finish this workshop in 3 months
+    - if you are 1 grade, we wish you finish this workshop in 2.5 months
+    - if you are 2 grade, we wish you finish this workshop in 2 months
+  - Discussion with your mentor, they will help you and check your progress
+  - Let AI help you, not replace you
 
-### [Userful Contact Window](./useful-contact.md)
+- For JOS/Anyone who want to learn new skills
+  - Choose your learning skill depends on your needs
 
+- Default Skill Sets
+  - PID Group (Java, Angular, CI/CD, Observability, SRE)
+  - EDA Group (TBD)
+  - SRE Group (TBD)
+  ...
+  
 ## Dev VM Environment Setup
 
-### [Apply for a DevVM](./dev-vm.md)
+### [Apply for a DevVM](./0.Environment/dev-vm.md)
 
-### [Windows Software setup/check](./guide/dev-vm-windows.md)
+### [Windows Software setup/check](./0.Environment/dev-vm-windows.md)
 
 #### Setup Development Tools
 
@@ -77,7 +92,7 @@
 - Dev Container
   - if you use wsl2, you can use dev container
 
-### [Linux vm setup and check](./dev-vm-linux.md)
+### [Linux vm setup and check](./0.Environment/dev-vm-linux.md)
 
 - apt
 - yum
@@ -94,7 +109,7 @@
 
 ## Workshop
 
-### [Backend Java Development](./workshop/backend-java-development.md)
+### [Backend Java Development](./workshop/java-development.md)
 
 #### Chapter 1: Basic Spring Boot Project
 
@@ -189,10 +204,16 @@ Tutorial:
 #### Chapter 3: Secure your TodoList Backend Project
 
 AR:
+  
+  //how about Acceptance Criteria for this chapter
 
 DoD:
 
+  //how about Done Definition for this chapter
+
 Backlog:
+
+  //How about your plan backlog in this chapter
 
 Tutorial:
 
@@ -221,10 +242,16 @@ Tutorial:
 #### Chapter 4: Batch/Scheduler Backend Project
 
 AR:
+  
+  //how about Acceptance Criteria for this chapter
 
 DoD:
 
+  //how about Done Definition for this chapter
+
 Backlog:
+
+  //How about your plan backlog in this chapter
 
 Tutorial:
 
@@ -394,3 +421,9 @@ Tutorial:
 
 - [ Xxxxxxxxx ]
 - [ Xxxxxxxxx ]
+
+## Reference
+
+### [Useful Link in IT](./useful-link.md)
+
+### [Userful Contact Window](./useful-contact.md)
